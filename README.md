@@ -1,4 +1,4 @@
-# 👨‍💻 [hi im mohamad mehdi]
+# 👨‍💻 hi im mohamad mehdi
 
 ### 💻 Backend Developer | Python & Django 
 
@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-00D2FF?logo=postman&logoColor=white&style=flat)
--![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=flat)
+![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=flat)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat)
 ![Telegram Bot Development](https://img.shields.io/badge/-Telegram%20Bot-2CA5E0?logo=telegram&logoColor=white&style=flat)
