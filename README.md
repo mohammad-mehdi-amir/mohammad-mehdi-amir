@@ -2,9 +2,9 @@
 
 ### 💻 Backend Developer | Python & Django 
 
-🚀 Crafting robust backend solutions since 2020  
 🔧 Skilled in Python & Django  
-🎓 Computer Engineering student | Lifelong learner  
+🎓 Computer Engineering student
+🚀Lifelong learner  
 ✨ Passionate about tech, problem-solving, and continuous improvement
 
 ### 🛠️ Skills & Tools
