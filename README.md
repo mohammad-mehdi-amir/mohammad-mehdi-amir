@@ -1,4 +1,4 @@
-# 👨‍💻 hi im mohamad mehdi
+# 👨‍💻 HI i'm mohamad mehdi
 
 ### 💻 Backend Developer | Python & Django 
 
